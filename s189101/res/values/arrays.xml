@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="words">
+    <item>HORSE</item>
+    <item>CATTLE</item>
+    <item>COWBOY</item>
+    <item>SALOON</item>
+    <item>BUZZARD</item>
+    <item>RANCHER</item>
+    <item>UNCHARTED</item>
+    <item>MISSISSIPPI</item>
+    <item>TEXAS</item>
+    <item>REDEMPTION</item>
+    <item>HOGTIE</item>
+    <item>HARDSHIP</item>
+    <item>INDIANS</item>
+    <item>DESOLATE</item>
+    <item>STALLION</item>
+    <item>VICTORY</item>
+    <item>VENDETTA</item>
+  </string-array>
+</resources>

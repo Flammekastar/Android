@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hangman</string>
+    <string name="help">Hjelp</string>
+    <string name="action_settings">Innstillinger</string>
+    <string name="play">Spill</string>
+    <string name="ok">OK</string>
+    <string name="rules">Regler</string>
+    <string name="bgimage">Dette er et bakgrunnsbilde</string>
+    <string name="gallows">Galgen</string>
+	<string name="head">Hode</string>
+	<string name="body">Kropp</string>
+	<string name="arm">Arm</string>
+	<string name="leg">Bein</string>
+	<string name="norbutton">Norsk</string>
+	<string name="ukbutton">Engelsk</string>
+	<string name="congratz">Gratulerer</string>
+	<string name="win">Du vinner</string>
+	<string name="wins">Seiere:</string>
+	<string name="losses">Tap:</string>
+	<string name="answer">Løsningen var:</string>
+	<string name="playagain">Spill igjen</string>
+	<string name="exit">Avslutt</string>
+	<string name="sorry">Beklager</string>
+	<string name="lose">Du tapte denne gangen, hvorfor ikke prøve igjen?</string>	
+	<string name="theanswer">Løsningen var:</string>
+	<string name="helptext">Gjett ordet ved å velge bokstaver.</string>
+	<string name="helptext2">Du har 6 forsøk før eventyret ditt ender i galgen.</string>
+</resources>
